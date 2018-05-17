@@ -1,0 +1,13 @@
+{
+  "id": "youtube",
+  "name": "Youtube",
+  "version": "1.0.0",
+  "description": "Youtube",
+  "main": "index.js",
+  "author": "tony",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.youtube.com",
+    "hasTeamID": false
+  }
+}

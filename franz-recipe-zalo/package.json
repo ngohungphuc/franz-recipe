@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Zalo",
   "main": "index.js",
-  "author": "17number",
+  "author": "tony",
   "license": "MIT",
   "config": {
     "serviceURL": "http://web.zaloapp.com/login",
